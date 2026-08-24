@@ -1,6 +1,6 @@
 # Hey, I'm Belva 👋
 
-Data Analyst & Final-year Information Systems student at **Institut Teknologi Bandung (ITB)**. I specialize in customer analytics, behavioral segmentation, and campaign optimization, with experience turning raw datasets into actionable marketing and operational insights.
+Data Analyst & Third-year Information Systems student at **Institut Teknologi Bandung (ITB)**. I specialize in customer analytics, behavioral segmentation, and campaign optimization, with experience turning raw datasets into actionable marketing and operational insights.
 
 When I'm not querying databases or running segmentation models, you'll find me competing in national/international business competitions or working on product strategy.
 
@@ -9,7 +9,7 @@ When I'm not querying databases or running segmentation models, you'll find me c
 **Data & AI Strategy Intern — Campaign & Leads Management, PT Bank Syariah Indonesia Tbk** *(Jun 2026 – Aug 2026)*
 - Executed SQL-based eligibility and leads generation pipelines in Hue & Talend across 6 cycles for automated push notifications.
 - Designed & evaluated an A/B testing framework across 6 notification variants to optimize BYOND starter pack conversion.
-- Built Power BI dashboards analyzing 560,000+ onboarding records by referral channel to direct marketing resources.
+- Implemented spatial density clustering using Python (DBSCAN & HDBSCAN) on multi-temporal transaction data to identify commercial hotspot clusters for targeted branch campaigns.
 
 **Product Intern, Ralat Indonesia** *(Aug 2025 – Jan 2026)*
 - Analyzed 100+ educational datasets to optimize content taxonomy and improve engagement metrics.
@@ -17,8 +17,12 @@ When I'm not querying databases or running segmentation models, you'll find me c
 
 ## What I'm Building & Analyzing
 
+**[BYOND Onboarding & Behavioral Analytics Dashboard](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
+- Built Power BI dashboards analyzing 560,000+ out-of-box (OOB) onboarding records, comparing user acquisition & behavioral patterns between referral and non-referral channels to optimize marketing resource allocation.
+- [Source](https://github.com/BelvaCharissa)
+
 **[BYOND Usage Density Clustering & Segmentation](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
-- Implemented spatial density clustering using Python (DBSCAN & HDBSCAN) on multi-temporal transaction data to identify commercial hotspot clusters for targeted offline branch campaigns.
+- Clustered multi-temporal transaction coordinates using Python (DBSCAN & HDBSCAN) to optimize offline branch campaign allocation across high-density commercial hubs.
 - [Source](https://github.com/BelvaCharissa)
 
 ## Let's Connect
