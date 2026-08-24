@@ -1,6 +1,6 @@
 # Hey, I'm Belva 👋
 
-Data Analyst & Third-year Information Systems student at **Institut Teknologi Bandung (ITB)**. I specialize in customer analytics, behavioral segmentation, and campaign optimization, with experience turning raw datasets into actionable marketing and operational insights.
+Data Analyst Enthusiast & Third-year Information Systems student at **Institut Teknologi Bandung (ITB)**. I specialize in customer analytics, behavioral segmentation, and campaign optimization, with experience turning raw datasets into actionable marketing and operational insights.
 
 When I'm not querying databases or running segmentation models, you'll find me competing in national/international business competitions or working on product strategy.
 
