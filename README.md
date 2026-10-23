@@ -17,8 +17,8 @@ When I'm not querying databases or running segmentation models, you'll find me c
 
 ## What I'm Building & Analyzing
 
-**[FMCG SUpply Chain Analysis Dashboard](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)** *(Oct 2026)*
-- Built Power BI dashboards analyzing 560,000+ out-of-box (OOB) onboarding records, comparing user acquisition & behavioral patterns between referral and non-referral channels to optimize marketing resource allocation.
+**[FMCG Supply Chain Analysis Dashboard](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)** *(Oct 2026)*
+- Developed an analytics dashboard for 1,250 outlets and three distribution centers across Jabodetabek, analyzing stockouts, delivery delays, revenue, and distribution workload to identify bottlenecks. 
 - [Source](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)
 
 **[BYOND Onboarding & Behavioral Analytics Dashboard](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
