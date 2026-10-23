@@ -17,9 +17,9 @@ When I'm not querying databases or running segmentation models, you'll find me c
 
 ## What I'm Building & Analyzing
 
-**[FMCG SUpply Chain Analysis Dashboard]([https://github.com/BelvaCharissa](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis))** *(Oct 2026)*
+**[FMCG SUpply Chain Analysis Dashboard](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)** *(Oct 2026)*
 - Built Power BI dashboards analyzing 560,000+ out-of-box (OOB) onboarding records, comparing user acquisition & behavioral patterns between referral and non-referral channels to optimize marketing resource allocation.
-- [Source]([https://github.com/BelvaCharissa](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis))
+- [Source](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)
 
 **[BYOND Onboarding & Behavioral Analytics Dashboard](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
 - Built Power BI dashboards analyzing 560,000+ out-of-box (OOB) onboarding records, comparing user acquisition & behavioral patterns between referral and non-referral channels to optimize marketing resource allocation.
