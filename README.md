@@ -2,10 +2,10 @@
 
 Third-year **Information Systems & Technology** student at **Institut Teknologi Bandung (ITB)** who turns customer data into business decisions.
 
-- 🏆 **1st place of 800 teams**, Healthkathon BPJS Kesehatan 2026
+- 🏆 **1st place of 900+ teams**, Healthkathon BPJS Kesehatan 2026
 - 💼 **Incoming Data Analyst Intern**, PT Telkom Indonesia (Dec 2026)
 - 📈 **Data & AI Strategy Intern**, Bank Syariah Indonesia (2026): A/B-tested campaign messages lifted conversion 10–15%
-- 🎓 GPA 3.70 · ITB Ganesha Award (4×) · Beasiswa Jenius Jawa Barat 2025
+- 🎓 GPA 3.74 · ITB Ganesha Award (4×) · Beasiswa Jenius Jawa Barat 2025
 
 ## Featured projects
 
@@ -17,14 +17,14 @@ Third-year **Information Systems & Technology** student at **Institut Teknologi 
 
 ## Competitions
 
-- 🥇 **1st place**, Healthkathon BPJS Kesehatan 2026 (800 teams)
+- 🥇 **1st place**, Healthkathon BPJS Kesehatan 2026 (900+ teams)
 - 🥈 **2nd place**, Billions Business Case Competition (International), Universitas Brawijaya
 - 🏅 **Best Solution**, Lead Competition (International), Universitas Indonesia
 - 🥉 **3rd place**, Futurest (ITS) · **4th place**, VORTEX (ITB) · **Finalist**, ASCEND (UNAIR) · **Top 3%**, Diponation (UNDIP)
 
 ## Beyond code
 
-- Mentored 100+ students in 30 teams for business case competitions
+- Mentored 50+ students for business case competitions
 - Business Judge, STACK 2026 by GDG on Campus ITB (~100 teams)
 - Top 15 of 3,000+ applicants, COMPFEST 17 Product Management Academy
 
