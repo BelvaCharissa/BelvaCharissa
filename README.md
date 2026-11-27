@@ -25,7 +25,7 @@ Third-year **Information Systems & Technology** student at **Institut Teknologi 
 ## Beyond code
 
 - Mentored 50+ students for business case competitions
-- Business Judge, STACK 2026 by GDG on Campus ITB (~100 teams)
+- Business Judge, STACK 2026 hackathon by GDG on Campus ITB (~100 teams)
 - Top 15 of 3,000+ applicants, COMPFEST 17 Product Management Academy
 
 ## Toolbox
