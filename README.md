@@ -14,9 +14,6 @@ Third-year **Information Systems & Technology** student at **Institut Teknologi 
 | [**FMCG Distribution Analytics**](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis) | Finds where and why stock runs out across 1,250 outlets and 3 warehouses in Jabodetabek, then ranks outlets for action | Python, Pandas, HDBSCAN |
 | [**ApiRimba AI**](https://github.com/BelvaCharissa/ApiRimba) · [live demo](https://apirimba-ai.vercel.app) | Predicts 12-hour peatland fire spread and when it reaches each village, with firebreak options | Next.js, Supabase, Gemini |
 | [**Gramedia Data Warehouse**](https://github.com/BelvaCharissa/Seleksi-2026-Tugas-1) | Scrapes the Gramedia book catalog into PostgreSQL and a data warehouse | Python, Selenium, PostgreSQL |
-| [**Life Satisfaction Prediction**](https://github.com/BelvaCharissa/DataScienceUNAIR) | Ordinal regression on household survey data, tuned for QWK | LightGBM, XGBoost |
-| [**Humidity Forecasting**](https://github.com/BelvaCharissa/DataScienceUB) | Time-series forecasting of air humidity with domain features | Python, gradient boosting |
-| [**SIGAP**](https://github.com/BelvaCharissa/sigap-coffee-app) | Finds medicine, health facilities, and flood-safe routes | React Native, microservices |
 
 ## Competitions
 
