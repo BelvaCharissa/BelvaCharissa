@@ -1,42 +1,40 @@
-# Hey, I'm Belva 👋
+# Hi, I'm Belva 👋
 
-Data Analyst Enthusiast & Third-year Information Systems student at **Institut Teknologi Bandung (ITB)**. I specialize in customer analytics, behavioral segmentation, and campaign optimization, with experience turning raw datasets into actionable marketing and operational insights.
+Third-year **Information Systems & Technology** student at **Institut Teknologi Bandung (ITB)** who turns customer data into business decisions.
 
-When I'm not querying databases or running segmentation models, you'll find me competing in national/international business competitions or working on product strategy.
+- 🏆 **1st place of 800 teams**, Healthkathon BPJS Kesehatan 2026
+- 💼 **Incoming Data Analyst Intern**, PT Telkom Indonesia (Dec 2026)
+- 📈 **Data & AI Strategy Intern**, Bank Syariah Indonesia (2026): A/B-tested campaign messages lifted conversion 10–15%
+- 🎓 GPA 3.70 · ITB Ganesha Award (4×) · Beasiswa Jenius Jawa Barat 2025
 
-## What I'm Working On
+## Featured projects
 
-**Data & AI Strategy Intern — Campaign & Leads Management, PT Bank Syariah Indonesia Tbk** *(Jun 2026 – Aug 2026)*
-- Executed SQL-based eligibility and leads generation pipelines in Hue & Talend across 6 cycles for automated push notifications.
-- Designed & evaluated an A/B testing framework across 6 notification variants to optimize BYOND starter pack conversion.
-- Implemented spatial density clustering using Python (DBSCAN & HDBSCAN) on multi-temporal transaction data to identify commercial hotspot clusters for targeted branch campaigns.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**FMCG Distribution Analytics**](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis) | Finds where and why stock runs out across 1,250 outlets and 3 warehouses in Jabodetabek, then ranks outlets for action | Python, Pandas, HDBSCAN |
+| [**ApiRimba AI**](https://github.com/BelvaCharissa/ApiRimba) · [live demo](https://apirimba-ai.vercel.app) | Predicts 12-hour peatland fire spread and when it reaches each village, with firebreak options | Next.js, Supabase, Gemini |
+| [**Gramedia Data Warehouse**](https://github.com/BelvaCharissa/Seleksi-2026-Tugas-1) | Scrapes the Gramedia book catalog into PostgreSQL and a data warehouse | Python, Selenium, PostgreSQL |
+| [**Life Satisfaction Prediction**](https://github.com/BelvaCharissa/DataScienceUNAIR) | Ordinal regression on household survey data, tuned for QWK | LightGBM, XGBoost |
+| [**Humidity Forecasting**](https://github.com/BelvaCharissa/DataScienceUB) | Time-series forecasting of air humidity with domain features | Python, gradient boosting |
+| [**SIGAP**](https://github.com/BelvaCharissa/sigap-coffee-app) | Finds medicine, health facilities, and flood-safe routes | React Native, microservices |
 
-**Product Intern, Ralat Indonesia** *(Aug 2025 – Jan 2026)*
-- Analyzed 100+ educational datasets to optimize content taxonomy and improve engagement metrics.
-- Translated 5+ client requirements into functional specifications and relational database schemas (ERD/BCNF).
+## Competitions
 
-## What I'm Building & Analyzing
+- 🥇 **1st place**, Healthkathon BPJS Kesehatan 2026 (800 teams)
+- 🥈 **2nd place**, Billions Business Case Competition (International), Universitas Brawijaya
+- 🏅 **Best Solution**, Lead Competition (International), Universitas Indonesia
+- 🥉 **3rd place**, Futurest (ITS) · **4th place**, VORTEX (ITB) · **Finalist**, ASCEND (UNAIR) · **Top 3%**, Diponation (UNDIP)
 
-**[FMCG Supply Chain Analysis Dashboard](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)** *(Oct 2026)*
-- Developed an analytics dashboard for 1,250 outlets and three distribution centers across Jabodetabek, analyzing stockouts, delivery delays, revenue, and distribution workload to identify bottlenecks. 
-- [Source](https://github.com/BelvaCharissa/FMCG-Distribution-Analysis)
+## Beyond code
 
-**[BYOND Onboarding & Behavioral Analytics Dashboard](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
-- Built Power BI dashboards analyzing 560,000+ out-of-box (OOB) onboarding records, comparing user acquisition & behavioral patterns between referral and non-referral channels to optimize marketing resource allocation.
-- [Source](https://github.com/BelvaCharissa)
+- Mentored 100+ students in 30 teams for business case competitions
+- Business Judge, STACK 2026 by GDG on Campus ITB (~100 teams)
+- Top 15 of 3,000+ applicants, COMPFEST 17 Product Management Academy
 
-**[BYOND Usage Density Clustering & Segmentation](https://github.com/BelvaCharissa)** *(Jun 2026 – Aug 2026)*
-- Clustered multi-temporal transaction coordinates using Python (DBSCAN & HDBSCAN) to optimize offline branch campaign allocation across high-density commercial hubs.
-- [Source](https://github.com/BelvaCharissa)
+## Toolbox
 
-## Let's Connect
+`Python` `SQL` `Power BI` `Excel` `Pandas` `Scikit-learn` `Talend` `Next.js` `Git`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/belvacharissa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BelvaCharissa)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:belvahave@gmail.com)
+## Let's connect
 
----
-
-<p align="center">
-  <i>"Data is what you need to do analytics. Information is what you need to do business."</i> – John Naisbitt
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-belvacharissa-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/belvacharissa)
