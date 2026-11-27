@@ -20,7 +20,7 @@ Third-year **Information Systems & Technology** student at **Institut Teknologi 
 - 🥇 **1st place**, Healthkathon BPJS Kesehatan 2026 (900+ teams)
 - 🥈 **2nd place**, Billions Business Case Competition (International), Universitas Brawijaya
 - 🏅 **Best Solution**, Lead Competition (International), Universitas Indonesia
-- 🥉 **3rd place**, Futurest (ITS) · **4th place**, VORTEX (ITB) · **Finalist**, ASCEND (UNAIR) · **Top 3%**, Diponation (UNDIP)
+- 🥉 **3rd place**, Futurest (ITS) · **4th place**, VORTEX (ITB) · **4th place**, ASCEND (UNAIR) · **Top 3%**, Diponation (UNDIP)
 
 ## Beyond code
 
